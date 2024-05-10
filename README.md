@@ -39,3 +39,10 @@ To incorporate these buttons into your project, navigate to the respective folde
     <script src="AddToCartButtons/add-to-cart.js"></script>
 </body>
 </html>
+
+```
+## Contributions
+
+Contributions to UI-Button-Pack are welcome! If you have any new button ideas or improvements to existing buttons, feel free to open an issue or submit a pull request.
+
+
